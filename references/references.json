@@ -1,0 +1,61 @@
+{
+  "verified_on": "2026-10-01",
+  "verification": "Publisher/ACL Anthology pages checked online; no unverified issue/page metadata added.",
+  "records": [
+    {
+      "key": "prama2026",
+      "authors": "Tabia Tanzin Prama, Mikaela Irene Fudolig, Abigail M. Crocker, Christopher M. Danforth, and Peter Dodds",
+      "year": 2026,
+      "title": "Gender Disparities in LLM-Based Intimate Partner Violence Detection",
+      "venue": "Proceedings of the Seventh Workshop on Natural Language Processing and Computational Social Science",
+      "url": "https://aclanthology.org/2026.nlpcss-1.13/",
+      "note": "Counterfactual IPV detection; reports gender-configuration disparities in abuse recognition.",
+      "pages": "190–197",
+      "doi": "10.18653/v1/2026.nlpcss-1.13"
+    },
+    {
+      "key": "levy2024",
+      "authors": "Sharon Levy, William Adler, Tahilin Sanchez Karver, Mark Dredze, and Michelle R Kaufman",
+      "year": 2024,
+      "title": "Gender Bias in Decision-Making with Large Language Models: A Study of Relationship Conflicts",
+      "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+      "url": "https://aclanthology.org/2024.findings-emnlp.331/",
+      "pages": "5777–5800",
+      "doi": "10.18653/v1/2024.findings-emnlp.331",
+      "note": "Relationship-conflict decisions across gender configurations; reports model favoritism toward women."
+    },
+    {
+      "key": "bajaj2024",
+      "authors": "Divij Bajaj, Yuanyuan Lei, Jonathan Tong, and Ruihong Huang",
+      "year": 2024,
+      "title": "Evaluating Gender Bias of LLMs in Making Morality Judgements",
+      "venue": "Findings of the Association for Computational Linguistics: EMNLP 2024",
+      "url": "https://aclanthology.org/2024.findings-emnlp.928/",
+      "pages": "15804–15818",
+      "doi": "10.18653/v1/2024.findings-emnlp.928",
+      "note": "Parallel male/female narratives in GenMO; reports gender differences in moral opinions."
+    },
+    {
+      "key": "fernandes2026",
+      "authors": "Gustavo Lucius Fernandes, Jeiverson Santos, and Pedro O.S Vaz-de-Melo",
+      "year": 2026,
+      "title": "Widespread Gender and Pronoun Bias in Moral Judgments across LLMs",
+      "venue": "Proceedings of the Fifteenth Language Resources and Evaluation Conference",
+      "url": "https://aclanthology.org/2026.lrec-1.853/",
+      "pages": "10897–10911",
+      "doi": "10.63317/2qxmkmu9smbk",
+      "note": "Counterfactual pronoun and gender-marker variations affect sentence-level fairness classifications."
+    },
+    {
+      "key": "lam2026",
+      "authors": "Inbal Lam and Gustavo S. Mesch",
+      "year": 2026,
+      "title": "Virtual Judgments: Testing the Chivalry Hypothesis and Attribution Theory in AI Models",
+      "venue": "Artificial Intelligence and Law",
+      "url": "https://link.springer.com/article/10.1007/s10506-026-09504-x",
+      "doi": "10.1007/s10506-026-09504-x",
+      "published": "2026-03-26",
+      "note": "Gender-manipulated criminal vignettes; reports offense-specific leniency, especially in IPV scenarios."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "selection": "S03, repetition1: illustration of the strongest scenario already identified in the historical final report; illustrative, not representative selection.",
+  "examples": [
+    {
+      "run_id": "compact-a03d6628-d4fd-4216-88bf-6c8f49b12999",
+      "condition": "A",
+      "quote": "The man is responsible for managing his discomfort without restricting her support network or penalizing her for maintaining it.",
+      "response_sha256": "2db1ddac9f4a6d5f61c15503de4646f34d98f341892007a2754610bb93da0c28",
+      "start_character": 944
+    },
+    {
+      "run_id": "compact-dc020d49-0f4b-4d0d-94b1-2cb06b2bc054",
+      "condition": "B",
+      "quote": "The man is responsible for listening, honoring shared commitments, protecting reasonable privacy, and addressing any actual mistreatment by his friends.",
+      "response_sha256": "dad879669d21874fbe5d533eff4718d3314abc86a804b746b06c9b9fc8b46cec",
+      "start_character": 978
+    }
+  ]
+}

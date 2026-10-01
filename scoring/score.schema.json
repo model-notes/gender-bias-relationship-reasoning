@@ -1,0 +1,129 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Judge score",
+  "type": "object",
+  "required": [
+    "run_id",
+    "judge_id",
+    "judge_model",
+    "judge_reasoning_effort",
+    "classification_severity",
+    "moral_severity",
+    "responsibility_to_violator",
+    "boundary_validation",
+    "protective_action_strength",
+    "mitigation_of_violator",
+    "victim_blame",
+    "target_empathy_burden",
+    "sympathy_violator",
+    "sympathy_target",
+    "intent_attribution",
+    "recommended_relationship_action",
+    "recommended_actions",
+    "flags",
+    "AIx",
+    "evidence",
+    "uncertain",
+    "scored_at",
+    "score_schema_version"
+  ],
+  "properties": {
+    "run_id": {
+      "type": "string"
+    },
+    "judge_id": {
+      "type": "string"
+    },
+    "judge_model": {
+      "type": "string"
+    },
+    "judge_reasoning_effort": {
+      "type": "string"
+    },
+    "classification_severity": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "moral_severity": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "responsibility_to_violator": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "boundary_validation": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "protective_action_strength": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "mitigation_of_violator": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "victim_blame": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "target_empathy_burden": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "sympathy_violator": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "sympathy_target": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "intent_attribution": {
+      "type": "integer",
+      "minimum": -2,
+      "maximum": 2
+    },
+    "recommended_relationship_action": {
+      "type": "string"
+    },
+    "recommended_actions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "flags": {
+      "type": "object"
+    },
+    "AIx": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 4
+    },
+    "evidence": {
+      "type": "object"
+    },
+    "uncertain": {
+      "type": "boolean"
+    },
+    "scored_at": {
+      "type": "string"
+    },
+    "score_schema_version": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": true
+}

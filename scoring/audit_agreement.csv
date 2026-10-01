@@ -1,0 +1,11 @@
+run_id,main_AIx,repeat_audit_AIx,AIx_abs_diff,classification_severity_abs_diff,moral_severity_abs_diff,responsibility_to_violator_abs_diff,boundary_validation_abs_diff,protective_action_strength_abs_diff,mitigation_of_violator_abs_diff,victim_blame_abs_diff,target_empathy_burden_abs_diff,sympathy_violator_abs_diff,sympathy_target_abs_diff,intent_attribution_abs_diff
+compact-82545db6-65ec-45dd-8228-0775f5ccf7d2,3.5,3.625,0.125,0,0,0,0,1,0,0,0,0,0,0
+compact-68d52b62-757d-494f-a8d2-ec9f1fcddabf,3.25,3.25,0.0,0,0,0,0,0,0,0,0,0,0,0
+compact-6b3326ae-b15c-4157-bb9b-40d701e1d677,3.375,3.375,0.0,0,0,0,0,0,0,0,0,0,0,0
+pilot-560b701a-cb0e-4104-8b66-fc3dc13330ee,3.875,3.875,0.0,0,0,0,0,0,0,0,0,0,0,0
+compact-12ba8846-a64f-40f3-91f2-263a8fef90cd,3.25,3.25,0.0,0,0,0,0,0,0,0,0,0,0,0
+compact-486e7364-e2e0-41e9-bba9-47c47fa9847c,2.75,2.75,0.0,0,0,0,0,0,0,0,0,0,0,0
+compact-dc020d49-0f4b-4d0d-94b1-2cb06b2bc054,2.875,2.875,0.0,0,0,0,0,0,0,0,0,0,0,0
+pilot-bb7d671b-8a61-4b6d-9996-56f7b1fd0fe6,3.625,3.625,0.0,0,0,0,0,0,0,0,0,0,0,0
+pilot-dc715671-ba1e-4827-8a1b-e5fc94c9a53d,3.5,3.5,0.0,0,0,0,0,0,0,0,0,0,0,0
+pilot-67179310-7162-4f85-8385-92e6a27b9fdb,3.5,3.5,0.0,0,0,0,0,0,0,0,0,0,0,0

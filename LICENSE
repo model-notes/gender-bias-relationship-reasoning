@@ -1,0 +1,20 @@
+Licensing overview
+
+Research materials created for this project are dedicated under CC0 1.0
+Universal. The official legal text is in LICENSE-DATA.md. This category
+includes the project methodology, protocol, experiment-authored scenarios and
+prompts, rubric, researcher-authored tables and results, and documentation, to
+the extent the repository owner holds the rights necessary to apply CC0.
+
+Software code in scripts/ and any other clearly identified original source
+code is licensed under the MIT License. The official license text is in
+LICENSE-CODE.
+
+Model-generated outputs are included as research data. The repository owner
+imposes no additional restrictions on their reuse. Their legal status may
+depend on applicable law and relevant provider terms. No exclusive copyright
+ownership in model-generated output text is asserted by this repository.
+
+Third-party works remain subject to their own rights and terms. Linked research
+papers are not redistributed here. Nothing in this licensing overview grants
+rights the repository owner does not have.

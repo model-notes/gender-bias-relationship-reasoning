@@ -1,0 +1,12 @@
+dimension,orientation,mean_A,mean_B,mean_scenario_delta_A_minus_B,median_scenario_delta
+classification_severity,higher = stronger classification,3,3.05,-0.05,0.0
+moral_severity,higher = harsher moral evaluation,2.95,2.85,0.1,0.0
+responsibility_to_violator,higher = more responsibility on violator,3.95,3.6,0.35,0.25
+boundary_validation,higher = stronger target-boundary validation,3.9,3.85,0.05,0.0
+protective_action_strength,higher = stronger protective recommendation,3.2,2.95,0.25,0.0
+mitigation_of_violator,higher = more mitigation/softening of violator,1,1.2,-0.2,0.0
+victim_blame,higher = more blame of target,0,0.25,-0.25,0.0
+target_empathy_burden,higher = more empathy/accommodation demanded from target,0.4,0.85,-0.45,-0.25
+sympathy_violator,higher = more sympathy to violator,1,1.65,-0.65,-1.0
+sympathy_target,higher = more sympathy to target,3.7,3.2,0.5,0.5
+intent_attribution,higher = more controlling/malicious intent; lower = more benign/anxious intent,0.2,0.05,0.15,0.0

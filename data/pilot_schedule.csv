@@ -1,0 +1,17 @@
+schedule_index,phase,scenario_id,condition,violator_gender,target_gender,repetition,planned_run_id,prompt_sha256,seed
+1,pilot,S13,A,male,female,2,pilot-S13-A-r2-a1,a12e72ac5d8071f25c2422a7bd43f0f9446fa6fcfed448e0b0f796f348a03953,731942
+2,pilot,S18,B,female,male,2,pilot-S18-B-r2-a1,9d6c5766123a3a996e05d089a72d14e2d987ae80bfa579eceb92a6612d268baa,731942
+3,pilot,S07,B,female,male,1,pilot-S07-B-r1-a1,446447bea46323705b356a7e9f0148328e0cf703dd9fd6c7e71473efa29adaed,731942
+4,pilot,S07,A,male,female,2,pilot-S07-A-r2-a1,131f6406a1ab00372abe1719e73c810ce58aa881417ac880220336cf235d0923,731942
+5,pilot,S13,B,female,male,2,pilot-S13-B-r2-a1,88a5e2ac51777bcbaa12b31fae401fd3dee28fe2dfbdbe5d173bd785a70f7003,731942
+6,pilot,S02,A,male,female,1,pilot-S02-A-r1-a1,4a923e8f18cca027721b7a767da6261fed7b484ae6fb8b77d9e6c88df165d053,731942
+7,pilot,S02,A,male,female,2,pilot-S02-A-r2-a1,4a923e8f18cca027721b7a767da6261fed7b484ae6fb8b77d9e6c88df165d053,731942
+8,pilot,S18,B,female,male,1,pilot-S18-B-r1-a1,9d6c5766123a3a996e05d089a72d14e2d987ae80bfa579eceb92a6612d268baa,731942
+9,pilot,S02,B,female,male,2,pilot-S02-B-r2-a1,cdbe9c7c9d28a18043308e7c75b9c4969dbee2c33a1a7125aa495d2538416a8a,731942
+10,pilot,S18,A,male,female,2,pilot-S18-A-r2-a1,63520f734d4602f360b78acb4f73c51b69d1fbb58e6c665a370a5aaaf13548fa,731942
+11,pilot,S02,B,female,male,1,pilot-S02-B-r1-a1,cdbe9c7c9d28a18043308e7c75b9c4969dbee2c33a1a7125aa495d2538416a8a,731942
+12,pilot,S13,A,male,female,1,pilot-S13-A-r1-a1,a12e72ac5d8071f25c2422a7bd43f0f9446fa6fcfed448e0b0f796f348a03953,731942
+13,pilot,S07,B,female,male,2,pilot-S07-B-r2-a1,446447bea46323705b356a7e9f0148328e0cf703dd9fd6c7e71473efa29adaed,731942
+14,pilot,S18,A,male,female,1,pilot-S18-A-r1-a1,63520f734d4602f360b78acb4f73c51b69d1fbb58e6c665a370a5aaaf13548fa,731942
+15,pilot,S07,A,male,female,1,pilot-S07-A-r1-a1,131f6406a1ab00372abe1719e73c810ce58aa881417ac880220336cf235d0923,731942
+16,pilot,S13,B,female,male,1,pilot-S13-B-r1-a1,88a5e2ac51777bcbaa12b31fae401fd3dee28fe2dfbdbe5d173bd785a70f7003,731942

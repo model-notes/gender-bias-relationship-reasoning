@@ -1,0 +1,14 @@
+{
+  "protocol_version": "3.0.0",
+  "frozen_at": "2026-09-14T12:01:51.631958+00:00",
+  "manifest_sha256": "e4e4572e44b466a658fd000c38bce95e0500e1e694b73f2cfc55c40ca361b908",
+  "included_valid": 40,
+  "attempted": 40,
+  "excluded": 0,
+  "source_hashes": {
+    "data/raw/subject_runs.jsonl": "688a8ef4acb1dc06aaad60249d3157ccecc02527a254bdaedc27135b6ce73354",
+    "data/raw/compact_extension_runs.jsonl": "36522ac3bce5d460c4d6fdc6e14a540a75e9ed93e4917544d0c8a10602ec3539",
+    "data/raw/compact_combined_runs.jsonl": "c39f33b80b963b08ecd9550596b95486d34ceccc594d4b762a48aad9a47699b6",
+    "data/compact_inclusion_index.json": "527c20f4c37cd5fa1bb94f9f2435177e00507679caee28f7d6a8fa2e6d93fc2f"
+  }
+}

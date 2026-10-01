@@ -1,0 +1,42 @@
+# Public release file inventory
+
+This is the complete proposed publication set. No private recovery file or ZIP is included.
+
+- `.gitattributes`
+- `FILE_INVENTORY.md`
+- `LICENSE`
+- `LICENSE-CODE`
+- `LICENSE-DATA.md`
+- `LIMITATIONS.md`
+- `METHODOLOGY.md`
+- `PUBLICATION_NOTES.md`
+- `README.md`
+- `REPRODUCTION.md`
+- `data/compact_extension_schedule.csv`
+- `data/compact_inclusion_index.json`
+- `data/pilot_schedule.csv`
+- `data/raw_responses.jsonl`
+- `data/readme_examples.json`
+- `data/test_cases.jsonl`
+- `integrity/Integrity_Audit.md`
+- `integrity/PRIVACY_AUDIT.md`
+- `integrity/SHA256SUMS`
+- `integrity/collection_integrity_summary.md`
+- `integrity/compact_raw_freeze_original.json`
+- `integrity/provenance.json`
+- `integrity/public_freeze.json`
+- `protocol/CHANGELOG.md`
+- `protocol/Protocol_v3.0.0.md`
+- `protocol/compact_dataset_plan.json`
+- `references/references.json`
+- `results/Final_Analysis_Report.md`
+- `results/dimension_summary.csv`
+- `results/scenario_summary.csv`
+- `results/statistical_summary.json`
+- `scoring/Rubric.md`
+- `scoring/audit_agreement.csv`
+- `scoring/judge1_scores_fresh.jsonl`
+- `scoring/judge2_repeat_audit_same_session.jsonl`
+- `scoring/score.schema.json`
+- `scripts/validate_pairs.py`
+- `scripts/verify_release.py`

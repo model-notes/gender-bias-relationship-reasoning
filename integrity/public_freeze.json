@@ -1,0 +1,31 @@
+{
+  "kind": "public_derivative_freeze",
+  "prepared_on": "2026-10-01",
+  "protocol_version": "3.0.0",
+  "included_valid": 40,
+  "scenarios": 10,
+  "raw_public_sha256": "b20637421b6418d12d0aa22c051e06a6ded8b109c162f47e0726fccd762476c4",
+  "raw_original_sha256": "c39f33b80b963b08ecd9550596b95486d34ceccc594d4b762a48aad9a47699b6",
+  "prompt_response_strings_unchanged": true,
+  "metadata_removed": [
+    "context_check",
+    "ended_at",
+    "harness_version",
+    "metadata_limitations",
+    "parameters",
+    "response_segments",
+    "started_at",
+    "telemetry_folder",
+    "thread_id",
+    "usage"
+  ],
+  "historical_manifest_sha256": "e4e4572e44b466a658fd000c38bce95e0500e1e694b73f2cfc55c40ca361b908",
+  "recovered_baseline_sha256": "216bb8a769ad469cad9443189f3dc6b83eb22887571eef4ffc47f00440d26f53",
+  "judging_limitation": "Judge2 audit was performed in the same overall session and is not fully independent judge validation.",
+  "license_finalized_on": "2026-10-01",
+  "license_scope": {
+    "eligible_original_research_materials": "CC0-1.0",
+    "original_code": "MIT",
+    "model_generated_outputs": "Included as research data; no additional restrictions imposed by repository owner; external law and provider terms may apply."
+  }
+}

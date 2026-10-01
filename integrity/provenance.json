@@ -1,0 +1,185 @@
+{
+  "prepared_on": "2026-10-01",
+  "original_source_paths": "Relative to private recovered root; no absolute machine paths.",
+  "license_finalization": {
+    "date": "2026-10-01",
+    "eligible_original_research_materials": "CC0-1.0",
+    "original_code": "MIT",
+    "model_generated_outputs": "Research data with no additional restrictions imposed by repository owner; applicable external rights, law, and provider terms may apply.",
+    "current_files": [
+      "LICENSE",
+      "LICENSE-CODE",
+      "LICENSE-DATA.md"
+    ]
+  },
+  "files": [
+    {
+      "source": "G_Test_Astra_Experiment_Package/test_cases.jsonl",
+      "original_sha256": "6905877bc56b18c3c561bd7c0cab8fde37aaa88370e5f6e6ecdf703adb4ebdad",
+      "public_path": "data/test_cases.jsonl",
+      "public_sha256": "6905877bc56b18c3c561bd7c0cab8fde37aaa88370e5f6e6ecdf703adb4ebdad",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Astra_Experiment_Package/data/raw/compact_combined_runs.jsonl",
+      "original_sha256": "c39f33b80b963b08ecd9550596b95486d34ceccc594d4b762a48aad9a47699b6",
+      "public_path": "data/raw_responses.jsonl",
+      "public_sha256": "b20637421b6418d12d0aa22c051e06a6ded8b109c162f47e0726fccd762476c4",
+      "changes": "Allowlist projection; removed technical fields: context_check, ended_at, harness_version, metadata_limitations, parameters, response_segments, started_at, telemetry_folder, thread_id, usage. No prompt or response string changes, no run-ID relabelling, same row order.",
+      "byte_identical": false
+    },
+    {
+      "source": "G_Test_Astra_Experiment_Package/data/compact_inclusion_index.json",
+      "original_sha256": "527c20f4c37cd5fa1bb94f9f2435177e00507679caee28f7d6a8fa2e6d93fc2f",
+      "public_path": "data/compact_inclusion_index.json",
+      "public_sha256": "527c20f4c37cd5fa1bb94f9f2435177e00507679caee28f7d6a8fa2e6d93fc2f",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Astra_Experiment_Package/data/pilot_schedule.csv",
+      "original_sha256": "ab883fd0bbcfe091da226b8c8247a9220bbb3f1d24cc91c52d56f868a7f9039e",
+      "public_path": "data/pilot_schedule.csv",
+      "public_sha256": "ab883fd0bbcfe091da226b8c8247a9220bbb3f1d24cc91c52d56f868a7f9039e",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Astra_Experiment_Package/data/compact_extension_schedule.csv",
+      "original_sha256": "e2acd5b14c300ff6b1861cd967f83e72a6092a07cb35dc5958c35acd1bd89c38",
+      "public_path": "data/compact_extension_schedule.csv",
+      "public_sha256": "e2acd5b14c300ff6b1861cd967f83e72a6092a07cb35dc5958c35acd1bd89c38",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Astra_Experiment_Package/Protocol.md",
+      "original_sha256": "7fd2319f7d8b1bbd4e7f6636bd4d3621486c9dbfe55689cc4f0a05f04b0e6be4",
+      "public_path": "protocol/Protocol_v3.0.0.md",
+      "public_sha256": "7fd2319f7d8b1bbd4e7f6636bd4d3621486c9dbfe55689cc4f0a05f04b0e6be4",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Astra_Experiment_Package/CHANGELOG.md",
+      "original_sha256": "f40b32dbce620b2e62defd81b06b214f91203157c73d4216d8baf7d52991f165",
+      "public_path": "protocol/CHANGELOG.md",
+      "public_sha256": "f40b32dbce620b2e62defd81b06b214f91203157c73d4216d8baf7d52991f165",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Astra_Experiment_Package/Rubric.md",
+      "original_sha256": "428480f7d47eca4fec0902219da9fc793529bb785929720550bf51a566f87b2d",
+      "public_path": "scoring/Rubric.md",
+      "public_sha256": "428480f7d47eca4fec0902219da9fc793529bb785929720550bf51a566f87b2d",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Astra_Experiment_Package/schemas/score.schema.json",
+      "original_sha256": "8406859cd5fc1f26dda80e4261b9ff92bfdc09547c113230bf69a31aac7c095b",
+      "public_path": "scoring/score.schema.json",
+      "public_sha256": "8406859cd5fc1f26dda80e4261b9ff92bfdc09547c113230bf69a31aac7c095b",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Analysis/judge1_scores_fresh.jsonl",
+      "original_sha256": "b6a71e546bda06fd22a8933ac5b4daadd7aff191aaf082171f1d84dc6fdd06ac",
+      "public_path": "scoring/judge1_scores_fresh.jsonl",
+      "public_sha256": "b6a71e546bda06fd22a8933ac5b4daadd7aff191aaf082171f1d84dc6fdd06ac",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Analysis/judge2_repeat_audit_same_session.jsonl",
+      "original_sha256": "dfa9f29051bb1b2bfe8ba07a24dc1620e8c35577766f4c8ee683837c9aa61cd4",
+      "public_path": "scoring/judge2_repeat_audit_same_session.jsonl",
+      "public_sha256": "dfa9f29051bb1b2bfe8ba07a24dc1620e8c35577766f4c8ee683837c9aa61cd4",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Analysis/audit_agreement.csv",
+      "original_sha256": "32209a0a57c0423e84ff90825dc92b743008abfabe29a5f05713590ff0ada9e3",
+      "public_path": "scoring/audit_agreement.csv",
+      "public_sha256": "32209a0a57c0423e84ff90825dc92b743008abfabe29a5f05713590ff0ada9e3",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Analysis/scenario_summary.csv",
+      "original_sha256": "40dd972d7c12925477ce27b2d12b161686c706a3bd4c66ea0916f3870ea3179c",
+      "public_path": "results/scenario_summary.csv",
+      "public_sha256": "40dd972d7c12925477ce27b2d12b161686c706a3bd4c66ea0916f3870ea3179c",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Analysis/dimension_summary.csv",
+      "original_sha256": "eed38248ce7a80f27d05327c81fff77cbf916997d77d42023a21d85c1fa8177e",
+      "public_path": "results/dimension_summary.csv",
+      "public_sha256": "eed38248ce7a80f27d05327c81fff77cbf916997d77d42023a21d85c1fa8177e",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Analysis/statistical_summary.json",
+      "original_sha256": "9ac8e6beb81002241faa494020cfc2590d9bee6b1377b24b37d8d3635de71122",
+      "public_path": "results/statistical_summary.json",
+      "public_sha256": "9ac8e6beb81002241faa494020cfc2590d9bee6b1377b24b37d8d3635de71122",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Analysis/Final_Analysis_Report.md",
+      "original_sha256": "878c031701107943af370702fc6e3ceef9933b20c06d6dfabf714a8e42331048",
+      "public_path": "results/Final_Analysis_Report.md",
+      "public_sha256": "878c031701107943af370702fc6e3ceef9933b20c06d6dfabf714a8e42331048",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Analysis/Integrity_Audit.md",
+      "original_sha256": "82efd479f01eb039862bc0f6aa8adc69b9a0d155b9cfef663ead0a5b122aaf22",
+      "public_path": "integrity/Integrity_Audit.md",
+      "public_sha256": "82efd479f01eb039862bc0f6aa8adc69b9a0d155b9cfef663ead0a5b122aaf22",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Astra_Experiment_Package/data/compact_raw_freeze.json",
+      "original_sha256": "a3f8b6a697331ba6303cd5c9b2df9fda250a68ca0d43303ef24c32d54aa89269",
+      "public_path": "integrity/compact_raw_freeze_original.json",
+      "public_sha256": "a3f8b6a697331ba6303cd5c9b2df9fda250a68ca0d43303ef24c32d54aa89269",
+      "changes": "None; exact byte copy after privacy scan.",
+      "byte_identical": true
+    },
+    {
+      "source": "G_Test_Astra_Experiment_Package/compact_dataset_plan.json",
+      "original_sha256": "11057f22dd0f0c3643abf67e96c0f4f3536cb6494c77d031f3f9b16cf6a180e1",
+      "public_path": "protocol/compact_dataset_plan.json",
+      "public_sha256": "34c1c4858d0687e1e94e3db49c4780911c54f53fa35ec5f65dd07685b3211a9c",
+      "changes": "Removed protected_hashes map for omitted private execution/legacy infrastructure. Retained all inclusion IDs, planned slots, design parameters, historical source digests and planned audit method. Relative source paths are historical, not public paths.",
+      "byte_identical": false
+    },
+    {
+      "source": "G_Test_Astra_Experiment_Package/scripts/validate_pairs.py",
+      "original_sha256": "8f8299892de2fd8e06b44f82387b02f1dd1548770f3ff0c80274b7089289c0d9",
+      "public_path": "scripts/validate_pairs.py",
+      "public_sha256": "2429fc35919e7d7e491adfcb601cadd9db203531b31580606b8cfd30bc273717",
+      "changes": "Only input path relocated from root test_cases.jsonl to data/test_cases.jsonl; pair-validation logic unchanged.",
+      "byte_identical": false
+    },
+    {
+      "source": "G_Test_Astra_Experiment_Package/reports/compact_collection_report.json",
+      "original_sha256": "ec969f347c84a8265a75db808a4760d990718eb7e850af334e9aca1af1adebb2",
+      "public_path": "integrity/collection_integrity_summary.md",
+      "public_sha256": "d9f750b1bb2bbfcdd5e5627b4fc00f8487823f5c200e7e901157aa3368d846c8",
+      "changes": "Public summary of existing collection counts/limitations. Omitted internal execution references and run-level runtime details; no outcome scoring or raw text changed.",
+      "byte_identical": false
+    }
+  ]
+}
